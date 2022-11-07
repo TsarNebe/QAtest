@@ -8,6 +8,6 @@ print (id(surname))
 age = 33
 print(type(age))
 print(id(age))
-age = "45"
+age = 45
 print(type(age))
 print(id(age))
